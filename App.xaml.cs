@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_XML_SzerzokCikkek
+namespace WPF_ADONET_XML_SzerzokCikkek
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

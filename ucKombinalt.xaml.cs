@@ -1,9 +1,9 @@
 ﻿using System.Data;
 using System.Windows;
 using System.Windows.Controls;
-using WPF_Szerzok_Cikkek;
+using WPF_ADONET_XML_SzerzokCikkek;
 
-namespace WPF_XML_SzerzokCikkek
+namespace WPF_ADONET_XML_SzerzokCikkek
 {
 	public partial class ucKombinalt : UserControl
 	{

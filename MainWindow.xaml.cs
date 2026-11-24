@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.Windows;
 using System.Windows.Navigation;
-using WPF_Szerzok_Cikkek;
+using WPF_ADONET_XML_SzerzokCikkek;
 
-namespace WPF_XML_SzerzokCikkek
+namespace WPF_ADONET_XML_SzerzokCikkek
 {
 	public partial class MainWindow : Window
 	{

@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace WPF_Szerzok_Cikkek {
+namespace WPF_ADONET_XML_SzerzokCikkek {
     
     
     /// <summary>

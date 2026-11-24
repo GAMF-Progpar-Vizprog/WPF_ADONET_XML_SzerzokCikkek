@@ -1,9 +1,9 @@
-﻿<Window x:Class="WPF_XML_SzerzokCikkek.MainWindow"
+﻿<Window x:Class="WPF_ADONET_XML_SzerzokCikkek.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WPF_XML_SzerzokCikkek"
+        xmlns:local="clr-namespace:WPF_ADONET_XML_SzerzokCikkek"
         mc:Ignorable="d"
         Title="Szerzők-Cikkek" Height="450" Width="800">
 	<DockPanel>
